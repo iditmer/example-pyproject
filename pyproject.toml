@@ -4,3 +4,4 @@ version = "0.0.1"
 license = "MIT"
 license-files = "LICENSE.txt"
 authors = { name = "Primary A", email = "pa@alaska.edu" }
+maintainers = { name = "Primary A", email = "pa@alaska.edu" }
