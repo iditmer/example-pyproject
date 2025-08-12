@@ -7,3 +7,9 @@ license-files = "LICENSE.txt"
 authors = { name = "Primary A", email = "pa@alaska.edu" }
 maintainers = { name = "Primary A", email = "pa@alaska.edu" }
 dependencies = [ "numpy", "xarray" ]
+
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+    "setuptools",
+]
